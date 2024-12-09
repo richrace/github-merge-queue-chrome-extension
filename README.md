@@ -2,7 +2,9 @@
 
 Adds a tab to quickly link to the merge queue if repo is using one.
 
+![Screenshot 2024-12-09 at 19 31 56](https://github.com/user-attachments/assets/8c9d0da6-9ddf-4440-b1bd-c7eac9ea59b4)
+
 ## Development
 
 - Checkout this repo
-- Load it into a chromium browser via the Extensions manager
+- Load it into a Chromium browser via the Extensions manager
