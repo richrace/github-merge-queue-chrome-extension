@@ -61,7 +61,7 @@ const testCurrentUrl = async (previousRepo) => {
   prevRepo = repo;
 };
 
-// Seeing if anything on the page has changed. GitHub doesn't do page loads (built in Rails with) mostly.
+// Seeing if anything on the page has changed. GitHub doesn't do page loads mostly (built in Rails with turbo).
 const addLocationObserver = (callback) => {
   const config = { attributes: false, childList: true, subtree: false };
   const observer = new MutationObserver(callback);
