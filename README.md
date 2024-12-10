@@ -8,3 +8,7 @@ Adds a tab to quickly link to the merge queue if repo is using one.
 
 - Checkout this repo
 - Load it into a Chromium browser via the Extensions manager
+
+## Icons
+
+Font Awesome Free 6.7.1 by @fontawesome - <https://fontawesome.com> License - <https://fontawesome.com/license/free> Copyright 2024 Fonticons, Inc.
