@@ -1,8 +1,12 @@
 {
   "manifest_version": 3,
-  "name": "Github Merge Queue",
+  "name": "Github Merge Queue Link",
   "version": "0.1",
-  "description": "Adds a link to see the active merge queue",
+  "description": "Adds a link to see the active merge queue if the repo supports it",
+  "author": {
+    "email": "rich@richrace.dev"
+  },
+  "homepage_url": "https://github.com/richrace/github-merge-queue-chrome-extension",
   "permissions": ["activeTab"],
   "content_scripts": [
     {
