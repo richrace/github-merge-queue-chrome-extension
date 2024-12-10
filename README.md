@@ -6,8 +6,11 @@ Adds a tab to quickly link to the merge queue if repo is using one.
 
 ## Development
 
-- Checkout this repo
-- Load it into a Chromium browser via the Extensions manager
+- Clone this repo
+- Go to manage extensions
+- Turn developer mode on
+- Click load unpacked
+- Select this folder
 
 ## Icons
 
