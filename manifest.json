@@ -7,7 +7,6 @@
     "email": "rich@richrace.dev"
   },
   "homepage_url": "https://github.com/richrace/github-merge-queue-chrome-extension",
-  "permissions": ["activeTab"],
   "content_scripts": [
     {
       "matches": ["https://github.com/*"],
