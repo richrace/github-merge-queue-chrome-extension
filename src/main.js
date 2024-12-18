@@ -32,6 +32,12 @@ let success = false;
 const testCurrentUrl = async (previousRepo) => {
   const url = window.location.href;
   const repo = url.split("/").slice(0, 5).join("/");
+
+  // Make sure it's a [user/org, repo]
+  if (repo.split("/").slice(3, 5).length !== 2) {
+    return;
+  }
+
   const link = repo + "/queue/main";
 
   // If we haven't changed repos we don't want to another fetch
