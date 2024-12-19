@@ -13,8 +13,8 @@ collected, none of your data is sold to third parties.
 
 ## Links to Other Websites
 
-My Google Chrome Extension may contain links to other websites not operated by me. This Privacy Policy does not cover
-how that website processes personal information. I encourage you to review the Privacy Policy of every website that you
+My Google Chrome Extension may contain links to websites I do not operate. This Privacy Policy does not cover
+how that website processes personal information. I'd like you to please review the Privacy Policy of every website you
 visit.
 
 ## Changes to this Privacy Policy
@@ -24,8 +24,8 @@ revised Privacy Policy, and the "Effective Date" above will be updated. You are 
 periodically for any changes.
 
 By using my Google Chrome Extensions, you signify your consent and agreement to the terms of this Privacy Policy. If you
-do not agree with this Privacy Policy, please refrain from using my Google Chrome Extensions.
+I disagree with this Privacy Policy, so please refrain from using my Google Chrome Extensions.
 
 ## Feedback
 
-If you have questions or concerns about this Privacy Policy, you can contact me by [via GitHub issues](https://github.com/richrace/github-merge-queue-chrome-extension/issues).
+If you have questions or concerns about this Privacy Policy, please don't hesitate to contact me [via GitHub issues](https://github.com/richrace/github-merge-queue-chrome-extension/issues).
