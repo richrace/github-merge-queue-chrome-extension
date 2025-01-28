@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Github Merge Queue Link",
-  "version": "0.2",
+  "version": "0.3",
   "description": "Adds a link to see the active merge queue if the repo supports it",
   "author": {
     "email": "rich@richrace.dev"
